@@ -1,0 +1,374 @@
+Skillet,Famous,2016,Rock,4.8,Bryan Brauchler
+blink-182,She's Out Of Her Mind,2016,Rock,4.6,Bryan Brauchler
+Bon Jovi,Livin' On A Prayer,1986,Hair Metal,4.7,Bryan Brauchler
+Raffi,Banana Phone,1994,Vocal/Easy Listening,4.8,Bryan Brauchler
+Tchaikovsky,Overture,1812,Classical,4.7,Bryan Brauchler
+fluidvolt,Clay Memory,2015,Classical,4.8,Brendan Batchelor
+Tango Lima,Noble Savage,2013,Indie,5.0,Brendan Batchelor
+Mick Gordon,DOOM,2016,Industrial Djent,4.5,Brendan Batchelor
+Mike Kroll,Trust Fund,2013,Garage Rock,4.7,Brendan Batchelor
+The Caretaker,An Empty Bliss Beyond This World,2011,Ambient,3.8,Brendan Batchelor
+Pink Floyd,The Dark Side of the Moon,1973,Progressive Rock,5.0,Matthew Stachowiak
+Boston,Boston,1976,Hard Rock,4.6,Matthew Stachowiak
+Gorillaz,Plastic Beach,2010,Alternative,4.3,Matthew Stachowiak
+The Notorious B.I.G.,Ready To Die,1994,Hip Hop,4.7,Matthew Stachowiak
+Led Zeppelin,Physical Graffiti,1975,Progressive Rock,4.5,Matthew Stachowiak
+Cher,The Very Best of Cher,2003,Pop Music,4.0,Sarah Overbeck
+Josh Groban,Closer,2003,Operatic pop,4.5,Sarah Overbeck
+AC/DC,The Razor's Edge,1990,Hard rock,5.0,Sarah Overbeck
+Pink Floyd,The Wall,1979,Rock,5.0,Sarah Overbeck
+James Horner,Avatar,2009,Soundtrack,5.0,Sarah Overbeck
+Fairouz,Ya Tayr,1991,muashahat,5.0,Hussein Mdaihli
+Fairouz,Wahdon,1979,muashahat,4.8,Hussein Mdaihli
+Fairouz,Habaitak be Sayf,1975,classic,5.0,Hussein Mdaihli
+Om Kalthoum,Enta Omri,1868,classic,5.0,Hussein Mdaihli
+imam shafii,elaika elahi,1841,nasheed,5.0,Hussein Mdaihli
+Rush,Moving Pictures,1981,Classic Rock,5.0,Max Theisen
+Foo Fighters,The Colour and the Shape,1997,Rock,4.5,Max Theisen
+Jethro Tull,Aqualung,1971,Classic Rock,4.4,Max Theisen
+Kings of Leon,Only By The Night,2008,Rock,4.3,Max Theisen
+Red Hot Chili Peppers,The Getaway,2016,Funk Rock,4.8,Max Theisen
+icejjfish,What it is,2016,R&B,5.0,Adam Hermann
+Lil Yachty,Lil Boat,2016,Hip-Hop,5.0,Adam Hermann
+Florida Georgia Line,Dig Your Roots,2016,Country,0.0,Adam Hermann
+Desiigner,New English,2016,Trap Music,5.0,Adam Hermann
+DJ Khaled,Major Key,2016,Trap Music,5.0,Adam Hermann
+Taylor Swift,1989,2014,pop,5.0,Michael Raad
+D.R.A.M,Big Baby D.R.A.M,2016,rap,5.0,Michael Raad
+Adele,25,2015,pop,4.0,Michael Raad
+A$AP Rocky,Long.Live.ASAP,2013,rap,4.0,Michael Raad
+Lil Wayne,Tha Carter IV,2011,rap,4.5,Michael Raad
+The Beatles,Sgt. Pepper's Lonely Hearts Club Band,1967,Classic Rock,5.0,Nicholas Young
+The Beatles,Abbey Road,1969,Classic Rock,5.0,Nicholas Young
+The Beatles,Magical Mystery Tour,1967,Classic Rock,5.0,Nicholas Young
+The Beatles,White Album,1968,Classic Rock,5.0,Nicholas Young
+The Beatles,Let It Be,1970,Classic Rock,5.0,Nicholas Young
+Queen,Greatest Hits II,1991,Glam/Classic Rock,4.6,Collin Almario
+Original Broadway Cast of Hamilton,Hamilton,2015,Broadway/R&B/Hip Hop/Rap,5.0,Collin Almario
+Andrew McMahon in the Wilderness,Andrew McMahon in the Wilderness,2014,Indie Pop,4.7,Collin Almario
+Michael Jackson,Thriller,1982,Pop/Funk,4.8,Collin Almario
+Keith Kenniff,Branches,2013,Ambient Orchestral,4.7,Collin Almario
+Alestorm,Back Through Time,2011,Pirate Metal,5.0,Lutulu Mbiye
+Aqua,Aquarium,1997,Eurodance,5.0,Lutulu Mbiye
+Billy Talent,Billy Talent,2003,Punk Rock,5.0,Lutulu Mbiye
+Disturbed,Ten Thousand Fists,2005,Metal,5.0,Lutulu Mbiye
+Evans Blue,The Melody And The Energetic Nature Of Volume,2006,Alternative,5.0,Lutulu Mbiye
+Three Days Grace,One-X,2006,Alternative Rock,5.0,Lutulu Mbiye
+Imagine Dragons,Believer,2017,Classic Rock,5.0,Alvin Greene
+Adele,21,2015,Pop,2.5,Alvin Greene
+Imagine Dragons,Smoke and Mirrors,2015,Classic Rock,4.8,Alvin Greene
+Eminem,The Eminem Show,2002,Rap,4.5,Alvin Greene
+Robin Williams,Prince Ali,1992,Show tone,5.0,Alvin Greene
+Estelle,Take a Moment,2016,Show Tune,5.0,Alvin Greene
+Amon Amarth,Jomsviking,2016,Melodic Death Metal,5.0,Chris Brooks
+Dimmu Borgir,ABRAHADABRA,2012,Symphonic Black Metal,5.0,Chris Brooks
+Slayer,Reign in Blood,1986,Thrash Metal,5.0,Chris Brooks
+Five Finger Death Punch,The Way of the Fist,2007,Groove Metal,5.0,Chris Brooks
+Mastodon,Emperor of Sand,2017,Progressive Metal,5.0,Chris Brooks
+Ed Sheeran,Divide,2017,Pop,5.0,Kyle Pham
+Ellie Goulding,Delirium,2015,Pop,5.0,Kyle Pham
+Tori Kelly,Unbreakable Smile,2015,Pop,4.8,Kyle Pham
+Ariana Grande,My Everything,2014,Pop,4.7,Kyle Pham
+Maroon 5,Overexposed,2012,Pop,4.7,Kyle Pham
+ABBA,Dancing Queen,1976,Disco,4.0,Seba Alnajjar
+Frank Sinatra,My Way,1969,Pop,3.8,Seba Alnajjar
+Era,Ameno,1997,Pop,5.0,Seba Alnajjar
+Louis Armstrong,What a Wonderful World,1967,Pop,4.7,Seba Alnajjar
+Maher Zain,Ya Nabi Salam Alayka,2011,R&B,4.5,Seba Alnajjar
+Griz,Good Will Prevail,2016,Electronic,4.5,Andrew Hartley
+Death Grips,The Money Store,2011,Hip Hop,4.8,Andrew Hartley
+Daft Punk,Discovery,2001,House,4.2,Andrew Hartley
+Danny Brown,XXX,2011,Hip Hop,4.8,Andrew Hartley
+Anderson Paak,Malibu,2016,Soul,4.5,Andrew Hartley
+Danny Brown,XXX,2011,Alternative Hip Hop,5.0,Kayleigh James
+Arcade Fire,The Suburbs,2010,Indie Rock,5.0,Kayleigh James
+Kishi Bashi,151a,2012,Orchestral Pop,5.0,Kayleigh James
+Mac Demarco,Salad Days,2014,Indie Rock/Lo-fi,4.5,Kayleigh James
+Vince Staples,Summertime '06,2015,Rap,4.5,Kayleigh James
+Boston,Boston,1976,Hard rock,4.5,Joshua Quejadas
+Yes,Fragile,1972,Progressive rock,4.0,Joshua Quejadas
+Gustav Holst,The Planets,1916,Classical,5.0,Joshua Quejadas
+Aaron Copland,Appalachian Spring,1944,Modern,5.0,Joshua Quejadas
+Nujabes,Modal Soul,2005,Hip hop,4.0,Joshua Quejadas
+Arctic Monkeys,Favourite Worst Nightmare,2007,Indie Rock,5.0,Ryan Perkins
+Childish Gambino,Camp,2011,Hip Hop,4.8,Ryan Perkins
+Frank Ocean,Channel ORANGE,2012,R&B,4.5,Ryan Perkins
+Eminem,Relapse,2009,Rap,5.0,Ryan Perkins
+Currents,Tame Impala,2015,Synth Pop,4.7,Ryan Perkins
+Chrome Sparks,Sparks EP,2013,Electronic,4.2,Gavin Everson
+Arctic Monkeys,AM,2013,Indie Rock,4.4,Gavin Everson
+ODESZA,In Return,2014,Electronic,4.8,Gavin Everson
+Chrome Sparks,Goddess,2014,Electronic,4.4,Gavin Everson
+Kanye West,The Life Of Pablo,2016,Rap,4.8,Gavin Everson
+Chon,Grow,2015,Progressive Rock,5.0,Casey Saenz
+Brand New,Your Favorite Weapon,2001,Punk Rock,5.0,Casey Saenz
+The Flaming Lips,Yoshimi Battles The Pink Robots (U.S. Version),2002,Psychedelic Rock,5.0,Casey Saenz
+A Great Big Pile of Leaves,Have You Seen My Prefrontal Cortex?,2010,Indie Rock,5.0,Casey Saenz
+Modern Baseball,Sports,2012,Rock,5.0,Casey Saenz
+Cloud Nothings,Life Without Sound,2017,R&B,4.0,Joseph Astorino
+Priests,Nothing Feels Natural,2017,Indie,2.0,Joseph Astorino
+New Gen,New Gen,2017,R&B,3.0,Joseph Astorino
+Toothless,The Pace of Passing,2017,Alternative Rock,2.5,Joseph Astorino
+Horse Thief,Trials & Truths,2017,R&B,4.7,Joseph Astorino
+Evanescence,Fallen,2003,Alternative Rock,4.7,Shihab Shihab
+Nirvana,Nevermind,2001,Alternative Rock,4.6,Shihab Shihab
+Backstreet Boys,Millennium,1999,Pop,4.8,Shihab Shihab
+The Killers,Hot Fuss,2004,Rock,4.4,Shihab Shihab
+Florence + the Machine,Ceremonials,2011,Indie rock,4.5,Shihab Shihab
+Zack Hemsey,Waiting Between Worlds,2012,Epic,4.9,Colin Szajner
+Streetlight Manifesto,Everything Went Numb,2003,Ska,4.7,Colin Szajner
+Lena Fayre,This World,2015,Alternative,4.8,Colin Szajner
+Shiro Sagisu,Persecution of the Masses,2016,Classical,4.5,Colin Szajner
+Garbage,This World is Not Enough,1999,Electronica,4.5,Colin Szajner
+Of Mice & Men,Restoring Force,2014,Metalcore,4.5,Hasan Radwan
+Nothing More,Nothing More,2014,Rock,4.7,Hasan Radwan
+We Came as Romans,Tracing Back Roots,2013,Metalcore,4.0,Hasan Radwan
+Bring Me the Horizon,Sempiternal,2013,Rock,4.8,Hasan Radwan
+Panic! At the Disco,Death of a Bachelor,2016,Rock,4.9,Hasan Radwan
+The Beatles,White Album,1968,Classic Rock,5.0,Brendan Carr
+Oasis,Definitely Maybe,1994,Alternative Rock,5.0,Brendan Carr
+Arctic Monkeys,AM,2013,Indie Rock,5.0,Brendan Carr
+The White Stripes,The White Stripes,1999,Alternative Rock,4.5,Brendan Carr
+Kongos,Egomaniac,2016,Alternative Rock,4.0,Brendan Carr
+The Notorious B.I.G.,Ready To Die,1994,Hip Hop,4.0,Curtis Krawczyk
+Frank Sinatra,My Way,1969,Pop,2.0,Curtis Krawczyk
+Nirvana,Nevermind,2001,Alternative Rock,1.0,Curtis Krawczyk
+Eminem,Relapse,2009,Rap,5.0,Curtis Krawczyk
+Toothless,The Pace of Passing,2017,Alternative Rock,0.1,Curtis Krawczyk
+John Mayer,Queen of California,2012,acoustic rock,4.5,Mowaffak Hajhassan
+John Mayer,Shadow Days,2012,acoustic rock,4.7,Mowaffak Hajhassan
+AC/DC,Hells bells,1980,hard rock,5.0,Mowaffak Hajhassan
+Linkin Park,Numb,2003,alternative rock,4.0,Mowaffak Hajhassan
+AC/DC,Thunderstruck,1990,hard rock,5.0,Mowaffak Hajhassan
+Big Sean,One Man Can Change The World,2015,Hip Hop,5.0,Daniel Beier
+J. Cole,Crooked Smile,2013,Hip Hop,4.8,Daniel Beier
+Johnny Cash,I Walk The Line,1956,Country,4.5,Daniel Beier
+Frank Sinatra,I've Got You Under My Skin,1956,Vocal Jazz,4.7,Daniel Beier
+Zac Brown Band,Chicken Fried,2008,Country,5.0,Daniel Beier
+twenty one pilots,Regional at Best,2011,Alternative,5.0,Mehde Moubarak
+twenty one pilots,twenty one pilots,2009,Rock,4.8,Mehde Moubarak
+Eminem,The Marshall Mathers LP,2000,Rap,4.6,Mehde Moubarak
+Imagine Dragons,Night Visions,2013,Alternative,4.8,Mehde Moubarak
+Of Monsters and Men,My Head Is An Animal,2012,Alternative,4.7,Mehde Moubarak
+Pink Floyd,The Wall,1982,Classic Rock,4.7,Darren Cicala
+Metallica,...And Justice For All,1988,Metal,5.0,Darren Cicala
+The Offspring,Smash,1994,Rock,4.3,Darren Cicala
+Nine Inch Nails,The Downward Spiral,1994,Industrial,4.5,Darren Cicala
+The Cure,The Cure Galore,1997,Pop,5.0,Darren Cicala
+Hector Berlioz,Dream of a Witch's Sabbath,1830,Classical,4.4,Alvin Bahri
+George Gershwin,An American in Paris,1928,Classical/Jazz,4.7,Alvin Bahri
+Michael Daugherty,Red Cape Tango,2004,Classical,4.5,Alvin Bahri
+John Cage,4:33,1952,Classical,4.3,Alvin Bahri
+Spongebob Squarepants,Best Day Ever,2006,Pop,5.0,Alvin Bahri
+Chainsmokers,Bouquet,2015,Dance/Electronic,5.0,Stuart Castle
+Coldplay,A Head Full of Dreams,2016,Pop rock,4.8,Stuart Castle
+Marshmello,Alone,2016,Electronic,4.9,Stuart Castle
+Ivan Torrent,Reverie,2014,New Age music,4.6,Stuart Castle
+Pusher,New Laces,2016,Dance,4.5,Stuart Castle
+Aether,Dear Lillie,2017,Electronica,4.6,Jeff Yin
+Zack Hemsey,Vengeance,2011,Orchestral Pop,4.7,Jeff Yin
+Stephen,Crossfire,2016,pop,4.4,Jeff Yin
+Michael Giacchino,The Imperial Suite,2016,Classical,4.8,Jeff Yin
+Michael Giacchino,Star Dust,2016,Classical,4.8,Jeff Yin
+Breaking Benjamin,I Will Not Bow,2009,rock,5.0,Russell Andres
+Big Giant Circles,Viceroy Danny Von B,2014,Electronic/Chiptune,5.0,Russell Andres
+Two Steps From Hell,Mountains from Water,2011,Soundtrack/Classical,5.0,Russell Andres
+The Fat Rat,Monody,2015,EDM,5.0,Russell Andres
+Jonathan Coulton,Still Alive,2009,Folk Rock,5.0,Russell Andres
+Mario,Let Me Love You,2004,R&B/Soul,4.8,Ismail Alkahali
+B5,All I DO,2005,Contemporary R&B,4.6,Ismail Alkahali
+Balqees,Yoi Yoi,2015,Arabic pop,4.6,Ismail Alkahali
+Passenger,Let Her Go,2012,Neo-folk,4.6,Ismail Alkahali
+Green Day,Wake Me Up When September Ends,2004,Alternative/Indie,4.6,Ismail Alkahali
+Westlife,My Love,2000,pop,4.8,Songhan Duan
+James Blunt,You are beatiful,2004,pop,4.8,Songhan Duan
+The Beatles,Hey Jude,1968,Rock,4.9,Songhan Duan
+Micheal Jackson,Thriller,1982,pop,4.8,Songhan Duan
+Eminem,Love the way you lie,2010,rap/pop,4.9,Songhan Duan
+Big Sean,I Decided.,2017,Hip-Hop/Rap,4.5,Joshua Norman
+The Weeknd,Starboy,2016,R&B/Soul,4.2,Joshua Norman
+6LACK,FREE 6LACK,2016,R&B/Soul,3.8,Joshua Norman
+Drake,Nothing Was the Same,2013,Hip-Hop/Rap,4.2,Joshua Norman
+Drake,Take Care,2011,Hip-Hop/Rap,4.5,Joshua Norman
+Eminem,The Eminem Show,2002,Hip Hop,4.8,Alhamza Alaamili
+Eminem,Recovery,2010,Hip Hop,4.6,Alhamza Alaamili
+Drake,Nothing Was The Same,2013,Hip Hop,4.3,Alhamza Alaamili
+Lil Wayne,Tha Carter III,2008,Hip Hop,4.5,Alhamza Alaamili
+Eminem,The Marshall Mathers LP,2000,Hip Hop,4.7,Alhamza Alaamili
+Method Man,Da Rockwilder,1999,East Coast Hip Hop,4.5,Ammar Shaibi
+Michael Jackson,Man in the Mirror,1987,Pop,5.0,Ammar Shaibi
+Big L,Danger Zone,1995,East Coast Hip Hop,4.3,Ammar Shaibi
+Slick Rick,Children's Story,1988,Hip Hop/Rap,4.7,Ammar Shaibi
+Blackstar,Definition,1998,Underground Rap,4.9,Ammar Shaibi
+Meek Mill,DC4,2016,Rap,4.6,Moe Bitar
+Calvin Harris,18 Months,2012,House/Electro House,4.9,Moe Bitar
+Rise Against,The Sufferer and the Witness,2006,Alternative/Punk Rock,4.7,Moe Bitar
+Muse,The Resistance,2009,Alternative Rock,4.8,Moe Bitar
+Eminem,Recovery,2010,Rap,4.7,Moe Bitar
+J Cole,Work Out,2011,Hip-hop/Rap,4.7,Ali Sofyan
+Troy Ave,Chuck Norris,2016,Hip-hop/Rap,3.9,Ali Sofyan
+J Cole,Dollar and a Dream,2011,Hip-hop/Rap,5.0,Ali Sofyan
+Paul Wall,Oh Girl,2010,Rap,4.9,Ali Sofyan
+Eminem,Headlights,2014,Hip-hop/Rap,5.0,Ali Sofyan
+The Mars Volta,Deloused in the Comatorium,2003,Prog Rock,5.0,Anna Murray
+The Beatles,Magical Mystery Tour,1967,Psychedelic rock,5.0,Anna Murray
+The New Pornographers,Twin Cinema,2005,Indie Rock,4.3,Anna Murray
+The Apples in Stereo,New Magnetic Wonder,2007,Lo fi,4.5,Anna Murray
+The Beach Boys,The Smile Sessions,2011,Psychedelic rock,5.0,Anna Murray
+Misfits,Static Age,1978,Horror Punk,3.9,Anna Murray
+Pavement,Slanted and Enchanted,1992,Lo fi,4.9,Anna Murray
+Opeth,Blackwater Park,2001,Progressive Death Metal,5.0,Charles Barber
+Amon Amarth,Twilight Of The Thunder God,2008,Melodic Death Metal,5.0,Charles Barber
+At The Gates,Slaughter Of The Soul,1995,Melodic Death Metal,5.0,Charles Barber
+Immortal,Sons of Northern Darkness,2002,Black Metal,4.9,Charles Barber
+The Black Dahlia Murder,Ritual,2011,Melodic Death Metal,4.8,Charles Barber
+ED Sheeran,Divide,2017,Pop,4.5,Qijian Zhou
+Adele Laurie Blue Adkins,21,2011,Pop,4.8,Qijian Zhou
+Jason Mraz,We Sing. We Dance. We Steal Things,2008,Pop,4.8,Qijian Zhou
+Westlife,Coast to Coast,2000,Pop,4.7,Qijian Zhou
+Pink,The Truth About Love,2012,Pop,4.8,Qijian Zhou
+Frank Ocean,Blonde,2016,R&B,5.0,Khaled Nimer
+Gorillaz,Plastic Beach,2010,Alternative,4.4,Khaled Nimer
+AC/DC,The Razor's Edge,1990,Hard rock,3.0,Khaled Nimer
+Michael Jackson,Thriller,1982,Funk,4.1,Khaled Nimer
+Kanye West,The Life Of Pablo,2016,Rap,4.9,Khaled Nimer
+Kanye,The College Dropout,2004,Rap,4.7,Sharif Abuzir
+Kanye,Late Registration,2005,Rap,4.8,Sharif Abuzir
+Kanye,Graduation,2007,Rap,5.0,Sharif Abuzir
+Kid Cudi,Man On The Moon II,2010,Rap,4.5,Sharif Abuzir
+Lupe Fiasco,Lasers,2011,Rap,4.7,Sharif Abuzir
+AC/DC,Black Ice,2008,Rock,4.0,Andrew McDonald
+Blue Man Group,Audio,1999,Alternative Rock,4.3,Andrew McDonald
+Brian Vander Ark,Brian Vander Ark,2008,Pop,3.8,Andrew McDonald
+Chicago,The Very Best Of: Only The Beginning,2002,Jazz Rock Fusion,4.2,Andrew McDonald
+Joe Satriani,Is There Love In Space?,2004,Rock,4.5,Andrew McDonald
+Future,Hndrxx,2017,Hip-Hop,4.5,Mike Donatelli
+Future,Future,2017,Hip-Hop,4.0,Mike Donatelli
+Future,Evol,2016,Hip-Hop,3.5,Mike Donatelli
+Future,Dirty Sprite 2,2015,Hip-Hop,4.6,Mike Donatelli
+Future,Honest,2014,Hip-Hop,4.3,Mike Donatelli
+Adele,21,2011,Pop,4.0,Ella Reimann
+Michael Jackson,Thriller,1983,Pop,4.0,Ella Reimann
+Taylor Swift,Fearless,2008,Pop,1.0,Ella Reimann
+Bruce Springsteen,Born in the U.S.A.,1984,Pop,4.0,Ella Reimann
+Garth Brooks,Ropin' the Wind,1991,Country,1.0,Ella Reimann
+Ben Rector,Brand New,2015,Pop/Rock,4.0,Jonathan Nagel
+Coldplay,A Head Full of Dreams,2015,Pop Rock,4.3,Jonathan Nagel
+MuteMath,Odd Soul,2011,Rock,4.8,Jonathan Nagel
+St. Lucia,Matter,2016,Pop/Rock,4.8,Jonathan Nagel
+The 1975,The 1975,2013,Rock,4.5,Jonathan Nagel
+Panic! At the Disco,Death of a Bachelor,2016,Rock,5.0,John Palma
+AC/DC,Thunderstruck,1990,Hard Rock,4.8,John Palma
+Imagine Dragons,It's Time,2012,Alternative,5.0,John Palma
+Bruno Mars,Versace on The Floor,2016,Pop,4.8,John Palma
+Guns N' Roses,Sweet Child O' Mine,1987,Hard Rock,4.7,John Palma
+Florida Georgia Line,Here's to the Good Times,2012,Country,4.5,Dylan Gadille
+Zac Brown Band,The Foundation,2008,Country,4.0,Dylan Gadille
+Carrie Underwood,Some Hearts,2005,Country,4.0,Dylan Gadille
+Tim McGraw,Greatest Hits,2000,Country,5.0,Dylan Gadille
+Dierks Bentley,Black,2016,Country,4.5,Dylan Gadille
+Blink 182,California,2016,Rock,5.0,Anthony Camilletti
+Good Charlotte,The Young and the Hopeless,2002,Alternative,4.0,Anthony Camilletti
+Queen,Greatest Hits I,1981,Rock,4.5,Anthony Camilletti
+Motley Crue,Too Fast for Love,1981,Rock,3.9,Anthony Camilletti
+Guns N' Roses,Appetite for Destruction,1987,Rock,4.7,Anthony Camilletti
+Rush,Moving Pictures,1981,Classic Rock,3.5,Ahmad Taleb
+DJ Khaled,Major Key,2016,Trap Music,4.0,Ahmad Taleb
+The Beatles,Abbey Road,1969,Classic Rock,1.5,Ahmad Taleb
+Eminem,The Eminem Show,2002,Rap,1.8,Ahmad Taleb
+Nothing More,Nothing More,2014,Rock,4.0,Ahmad Taleb
+Tool,Aenima,1996,Progressive Metal,5.0,Takotah Chavis
+Nine Inch Nails,The Downward Spiral,1994,Industrial Rock,4.8,Takotah Chavis
+Muse,Absolution,2003,Alternative Rock,4.7,Takotah Chavis
+Royal Blood,Royal Blood,2014,Hard Rock,4.5,Takotah Chavis
+Led Zeppelin,Led Zeppelin IV,1971,Classic Rock,4.9,Takotah Chavis
+Florida Georgia Line,May We All,2016,Country,4.3,Don McLellan
+Kid Rock,Cowboy,1998,Rock,3.8,Don McLellan
+Lunatic,Come With Me Now,2014,Alternative,4.2,Don McLellan
+Neil Diamond,Sweet Caroline,1969,Pop,4.3,Don McLellan
+Paul Brandt,Convoy,2009,Country,4.7,Don McLellan
+Post Malone,Congratulations,2016,Contemporary R&B,3.5,Ahmad Anani
+Roy Woods,Get You Good,2015,Hip-hop/rap,3.8,Ahmad Anani
+DJ Snake,The Half,2016,Dance/electronic,4.6,Ahmad Anani
+Khalid,Location,2017,R&B/soul,4.8,Ahmad Anani
+Ramriddlz,Super Saugod,2016,Hip-hop/rap,3.6,Ahmad Anani
+50 Cent,Get Rich or Die Tryin',2003,Rap,5.0,Ahmad Khan
+50 Cent,The Massacre,2005,Rap,5.0,Ahmad Khan
+Dr. Dre,2001,1999,Rap,4.5,Ahmad Khan
+G-Unit,Beg for Mercy,2003,Rap,4.8,Ahmad Khan
+Eminem,Recovery,2010,Rap,4.9,Ahmad Khan
+Pearl Jam,Lightning Bold,2013,Rock,4.5,James Hatch
+Flume,Skin,2016,Electronic,4.7,James Hatch
+Counting Crows,This Desert Life,1999,Rock,4.7,James Hatch
+Jack Johnson,In Between Dreams,2005,Acoustic/Folk,4.8,James Hatch
+Red Hot Chili Peppers,Californication,1999,Alternative,4.9,James Hatch
+ED Sheeran,Divide,2017,Pop,5.0,Adam Elewa
+Future,Hndrxx,2017,Hip-Hop,5.0,Adam Elewa
+Coldplay,A Head Full of Dreams,2016,Pop rock,5.0,Adam Elewa
+Ellie Goulding,Delirium,2015,Pop,5.0,Adam Elewa
+Michael Jackson,Thriller,1982,Funk,4.1,Adam Elewa
+Kevin Daniel,All The Wiser,2011,Songwriter,5.0,Marium Abdel-Maguid
+Matthew Perryman Jones,Swallow The Sea,2008,Contemporary Folk,5.0,Marium Abdel-Maguid
+Andrew Belle,In My Veins,2010,Songwriter,5.0,Marium Abdel-Maguid
+Three Days Grace,One-X,2006,Alternative Rock,4.0,Marium Abdel-Maguid
+Zayn Malik,Mind of Mine,2016,Alternative R&B,3.5,Marium Abdel-Maguid
+Led Zepplin,Stairway to Heaven,1971,Progressive Rock,5.0,Athanasios Argyris
+Pink Floyd,Money,1972,Progressive Rock,5.0,Athanasios Argyris
+The Rolling Stones,Paint It Black,1966,Rock,5.0,Athanasios Argyris
+A-ha,Take On Me,1985,Pop,4.9,Athanasios Argyris
+The Eagles,Hotel California,1976,Soft Rock,5.0,Athanasios Argyris
+Neutral Milk Hotel,In the Aeroplane Over the Sea,1998,Indie Rock,4.9,Jenfrey Gudger
+Johnny Hobo and the Freight Trains,Love Songs for the Apocalypse,2005,Folk Punk,4.8,Jenfrey Gudger
+Your Heart Breaks,Sailor System,2006,Punk,4.7,Jenfrey Gudger
+AJJ,People Who Can Eat People are the Luckiest People in the World,2007,Folk Punk,4.7,Jenfrey Gudger
+Violent Femmes,Violent Femmes,1983,Punk,4.6,Jenfrey Gudger
+The Mountain Goats,All Hail West Texas,2002,Folk,4.8,Jenfrey Gudger
+Radiohead,OK Computer,1997,Alt Rock,5.0,Brad Gunabalan
+Eminem,The Eminem Show,2002,Rap,5.0,Brad Gunabalan
+Linkin Park,Meteora,2003,Alt Rock,5.0,Brad Gunabalan
+Gorillaz,Demon Dayz,2005,Alternative,5.0,Brad Gunabalan
+Led Zeppelin,Physical Graffiti,1975,Rock,5.0,Brad Gunabalan
+Imagine Dragons,Smoke and Mirrors,2015,Classic Rock,4.5,Denis Sinani
+Skillet,Famous,2016,Rock,3.5,Denis Sinani
+Maroon 5,Overexposed,2012,Pop,4.3,Denis Sinani
+Tchaikovsky,Overture 1812,1812,Classical,4.9,Denis Sinani
+Daft Punk,Discovery,2001,House,4.0,Denis Sinani
+Daft Punk,Robot Rock,2007,Electronic,4.2,David M Miller
+Black Sabbath,War Pigs,1970,Heavy Metal,5.0,David M Miller
+Red Hot Chili Peppers,Universally Speaking,2002,Funk Rock,4.9,David M Miller
+Redlight King,Something For The Pain,2011,Rap Rock,4.2,David M Miller
+Van Halen,Running With The Devil,1978,Hard Rock,4.7,David M Miller
+Metallica,the unforgiven,1998,rock,5.0,mohamad chaito
+George micheals,careless whisper,1984,alternative,4.8,mohamad chaito
+Michael Jackson,beat it,1982,hard rock,4.9,mohamad chaito
+Scorpions,blackout,1982,heavy metal,4.5,mohamd chaito
+Evanescence,bring me to life,2003,gothic metal,4.2,mohamad chaito
+Three Days Grace,Break,2009,Hard rock,4.8,Diaa Khalil
+Eminem,Space Bound,2010,Hip hop,4.0,Diaa Khalil
+Arctic Monkeys,Do I wanna know,2013,Pop,4.5,Diaa Khalil
+Creed,One last breath,2001,hard rock,5.0,Diaa Khalil
+Imagine Dragons,Roots,2015,Alternative/Indie,3.8,Diaa Khalil
+Twenty One Pilots,Blurryface,2015,Electropop,4.3,Justin Kim
+Kanye West,Yeezus,2013,Hip hop,4.9,Justin Kim
+Knife Party,Abandon Ship,2014,Electro House,4.4,Justin Kim
+Dillon Francis,Money Sucks Friends Rule,2014,Trap Music,4.0,Justin Kim
+Eminem,The Marshall Mathers LP 2,2013,Hip hop,4.8,Justin Kim
+Enya,the very best of Enya,2009,classical,4.5,Hassan Salman
+Ali Deek,Aayouch,2015,World,4.7,Hassan Salman
+Ali Deek,Dabkat Ali al Deek,2015,World,4.6,Hassan Salman
+Drake,What a time to be alive,2015,Hip Hop,4.4,Hassan Salman
+Drake,So Far Gone,2009,Hip Hop,4.6,Hassan Salman
+Loreena Mckennitt,marco polo,1997,Folk,3.0,Eyad Aliko
+ERA,Reborn,2008,New-age,4.0,Eyad Aliko
+Queen,Bohemian Rhapsody,1975,Classic rock,4.5,Eyad Aliko
+Evanescence,My Immortal,2003,Rock,2.8,Eyad Aliko
+Unleash the Archers,Time Stands Still,2015,Death Metal,3.0,Christopher Gregory
+Queen,Flash Gordon,1980,Hard Rock,2.4,Christopher Gregory
+Linkin Park,A Thousand Suns,2010,Alternative Rock,2.2,Christopher Gregory
+Linkin Park,Reanimation,2001,Rap Rock,2.2,Christopher Gregory
+Nujabes,Hydeout Productions 2nd Collection,2007,Hip-Hop,4.5,Christopher Gregory
+Guns N' Roses,Sweet Child O' Mine,1987, Hard Rock,5.0,Hussein El-Souri
+Guns N' Roses,November Rain,1992, Hard Rock,5.0,Hussein El-Souri
+Queen,Bohemian Rhapsody,1975,Classic rock,5.0,Hussein El-Souri
+A-ha,Take On Me,1985,Pop,4.9,Hussein El-Souri
+Eminem,Space Bound,2010,Hip hop,4.0,Hussein El-Souri
